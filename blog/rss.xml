@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>IPS2DevKit Blog</title>
+        <link>https://github.com/IPS2DevKit/blog</link>
+        <description>IPS2DevKit Blog</description>
+        <lastBuildDate>Wed, 12 Jul 2023 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>en</language>
+        <item>
+            <title><![CDATA[New Website]]></title>
+            <link>https://github.com/IPS2DevKit/blog/new-website</link>
+            <guid>https://github.com/IPS2DevKit/blog/new-website</guid>
+            <pubDate>Wed, 12 Jul 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[The project now has a documentation website! Any news or docs about IPS2 open source work will be here.]]></description>
+            <content:encoded><![CDATA[<p>The project now has a documentation website! Any news or docs about IPS2 open source work will be here.</p><p>The new website uses <a href="https://docusaurus.io/" target="_blank" rel="noopener noreferrer">Docusaurus</a>.</p>]]></content:encoded>
+        </item>
+    </channel>
+</rss>

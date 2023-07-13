@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://github.com/IPS2DevKit/blog</id>
+    <title>IPS2DevKit Blog</title>
+    <updated>2023-07-12T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://github.com/IPS2DevKit/blog"/>
+    <subtitle>IPS2DevKit Blog</subtitle>
+    <icon>https://github.com/IPS2DevKit/img/favicon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[New Website]]></title>
+        <id>https://github.com/IPS2DevKit/blog/new-website</id>
+        <link href="https://github.com/IPS2DevKit/blog/new-website"/>
+        <updated>2023-07-12T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[The project now has a documentation website! Any news or docs about IPS2 open source work will be here.]]></summary>
+        <content type="html"><![CDATA[<p>The project now has a documentation website! Any news or docs about IPS2 open source work will be here.</p><p>The new website uses <a href="https://docusaurus.io/" target="_blank" rel="noopener noreferrer">Docusaurus</a>.</p>]]></content>
+        <author>
+            <name>Crystalflxme</name>
+            <uri>https://github.com/Crystalflxme</uri>
+        </author>
+    </entry>
+</feed>
