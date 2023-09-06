@@ -142,13 +142,9 @@ return function(map: Folder): { Types.LintResultPartial }
 			break
 		end
 
-		if isInAssembly(item) then
-			continue
-		end
-
 		local hasNestedItems = false
 		for _, descendant in item:GetDescendants() do
-			if not CollectionService:HasTag(descendant, "Item") then
+			if not CollectionService:HasTag(descendant, "Item") or isInAssembly(descendant) then
 				continue
 			end
 
