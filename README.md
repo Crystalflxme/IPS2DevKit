@@ -2,11 +2,11 @@
 
 Tools to assist with [In Plain Sight 2](https://www.roblox.com/games/2901172949) content development, such as maps or character submissions. Specifically, a Roblox Studio plugin and a documentation website.
 
-To learn more, go to the [documentation](https://crystalflxme.github.io/IPS2DevKit/) website.
+To learn more, go to the [documentation](https://hex-interactive.github.io/IPS2DevKit/) website.
 
 ## Installing
 
-To install the Roblox Studio plugin, go to the [latest release](https://github.com/Crystalflxme/IPS2DevKit/releases/latest) and download the `IPS2DevKit.rbxm` attachment. Place this file in your plugins folder after deleting any old versions, if you have any.
+To install the Roblox Studio plugin, go to the [latest release](https://github.com/Hex-Interactive/IPS2DevKit/releases/latest) and download the `IPS2DevKit.rbxm` attachment. Place this file in your plugins folder after deleting any old versions, if you have any.
 
 ## Developing
 
