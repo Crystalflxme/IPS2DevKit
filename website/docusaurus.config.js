@@ -94,7 +94,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} The IPS2 Developers. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Hex Interactive. Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,
