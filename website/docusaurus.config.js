@@ -10,7 +10,7 @@ const config = {
   favicon: 'img/favicon.png',
   url: 'https://github.com',
   baseUrl: '/IPS2DevKit/',
-  organizationName: 'Crystalflxme',
+  organizationName: 'Hex-Interactive',
   projectName: 'IPS2DevKit',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -57,7 +57,7 @@ const config = {
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/Crystalflxme/IPS2DevKit',
+            href: 'https://github.com/Hex-Interactive/IPS2DevKit',
             label: 'GitHub',
             position: 'right',
           },
