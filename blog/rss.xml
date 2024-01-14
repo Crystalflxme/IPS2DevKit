@@ -14,7 +14,8 @@
             <guid>https://github.com/IPS2DevKit/blog/new-website</guid>
             <pubDate>Wed, 12 Jul 2023 00:00:00 GMT</pubDate>
             <description><![CDATA[The project now has a documentation website! Any news or docs about IPS2 open source work will be here.]]></description>
-            <content:encoded><![CDATA[<p>The project now has a documentation website! Any news or docs about IPS2 open source work will be here.</p><p>The new website uses <a href="https://docusaurus.io/" target="_blank" rel="noopener noreferrer">Docusaurus</a>.</p>]]></content:encoded>
+            <content:encoded><![CDATA[<p>The project now has a documentation website! Any news or docs about IPS2 open source work will be here.</p>
+<p>The new website uses <a href="https://docusaurus.io/" target="_blank" rel="noopener noreferrer">Docusaurus</a>.</p>]]></content:encoded>
         </item>
     </channel>
 </rss>

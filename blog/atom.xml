@@ -13,7 +13,8 @@
         <link href="https://github.com/IPS2DevKit/blog/new-website"/>
         <updated>2023-07-12T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[The project now has a documentation website! Any news or docs about IPS2 open source work will be here.]]></summary>
-        <content type="html"><![CDATA[<p>The project now has a documentation website! Any news or docs about IPS2 open source work will be here.</p><p>The new website uses <a href="https://docusaurus.io/" target="_blank" rel="noopener noreferrer">Docusaurus</a>.</p>]]></content>
+        <content type="html"><![CDATA[<p>The project now has a documentation website! Any news or docs about IPS2 open source work will be here.</p>
+<p>The new website uses <a href="https://docusaurus.io/" target="_blank" rel="noopener noreferrer">Docusaurus</a>.</p>]]></content>
         <author>
             <name>Crystalflxme</name>
             <uri>https://github.com/Crystalflxme</uri>
