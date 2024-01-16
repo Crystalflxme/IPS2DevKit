@@ -12,9 +12,9 @@ To install the Roblox Studio plugin, go to the [latest release](https://github.c
 
 First, enable `Reload plugins on file changed` in the Roblox Studio settings.
 
-Next, run the following command on Windows:
+Next, run the following command:
 ```bash
-rojo build -o $env:LOCALAPPDATA/Roblox/Plugins/IPS2DevKit.rbxm --watch
+rojo build -p IPS2DevKit.rbxm --watch
 ```
 
 There is also a test place Rojo project provided.
